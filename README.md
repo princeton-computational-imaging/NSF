@@ -1,6 +1,6 @@
 
 # Shakes on a Plane: Unsupervised Depth Estimation from Unstabilized Photography
-<a href="https://colab.research.google.com/github/princeton-computational-imaging/NSF/tutorial.ipynb" style="text-decoration: none;">
+<a href="https://colab.research.google.com/github/princeton-computational-imaging/NSF/blob/main/tutorial.ipynb" style="text-decoration: none;">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="height:20px;"/>
 </a>
 <a href="https://github.com/Ilya-Muromets/Pani" style="text-decoration: none;">
@@ -46,7 +46,7 @@ NSF
   └── tutorial.ipynb // interactive tutorial for training the model
   ```
 ## Getting Started:
-We highly recommend you start by going through `tutorial.ipynb`, either on your own machine or [with this Google Colab link](https://colab.research.google.com/github/princeton-computational-imaging/NSF/tutorial.ipynb). 
+We highly recommend you start by going through `tutorial.ipynb`, either on your own machine or [with this Google Colab link](https://colab.research.google.com/github/princeton-computational-imaging/NSF/blob/main/tutorial.ipynb). 
 
 TLDR: models can be trained with:
 
