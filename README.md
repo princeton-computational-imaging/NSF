@@ -1,5 +1,5 @@
 
-# Shakes on a Plane: Unsupervised Depth Estimation from Unstabilized Photography
+# Neural Spline Fields for Burst Image Fusion and Layer Separation
 <a href="https://colab.research.google.com/github/princeton-computational-imaging/NSF/blob/main/tutorial.ipynb" style="text-decoration: none;">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="height:20px;"/>
 </a>
