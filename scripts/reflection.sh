@@ -9,5 +9,5 @@ python3 train.py \
 --alpha_weight=0.0 \
 --alpha_temperature=0.2 \
 --lr=2e-4 \
---translation_weight=1e-1 \z
+--translation_weight=1e-1 \
 "$@"
