@@ -80,6 +80,8 @@ You can download the long-burst data used in the paper (and extra bonus scenes) 
    7. Extra scenes: [extras.zip](https://soap.cs.princeton.edu/nsf/data/extras.zip) (use `scripts/dehaze.sh`, `segmentation.sh`, or `shadow.sh`)
  ![Extras](.figs/extras.png)
 
+   7. Synthetic validation: [synthetic-validation.zip](https://soap.cs.princeton.edu/nsf/data/synthetic-validation.zip) (use `scripts/reflection.sh` or `occlusion.sh` with flag `--rgb`)
+
 We recommend you download and extract these into the `data/` folder.
 
 ## App:
