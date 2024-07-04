@@ -7,13 +7,14 @@
   <img src=".figs/pani-badge.svg" alt="Android Capture App" style="height:20px;"/>
 </a>
 
-This is the official code repository for the work: [Neural Spline Fields for Burst Image Fusion and Layer Separation](https://light.princeton.edu/publication/nsf/). If you use parts of this work, or otherwise take inspiration from it, please considering citing our paper:
+This is the official code repository for the CVPR 2024 work: [Neural Spline Fields for Burst Image Fusion and Layer Separation](https://light.princeton.edu/publication/nsf/). If you use parts of this work, or otherwise take inspiration from it, please considering citing our paper:
 ```
-@article{chugunov2023neural,
-  title={Neural Spline Fields for Burst Image Fusion and Layer Separation},
+@inproceedings{chugunov2024neural,
+  title={Neural spline fields for burst image fusion and layer separation},
   author={Chugunov, Ilya and Shustin, David and Yan, Ruyu and Lei, Chenyang and Heide, Felix},
-  journal={arXiv preprint arXiv:2312.14235},
-  year={2023}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={25763--25773},
+  year={2024}
 }
 ```
 
